@@ -10,7 +10,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
-  "homepage":"https://Thomas-Florent.github.io/React_Onepage",
+  "homepage": "https://Thomas-Florent.github.io/Portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
