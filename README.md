@@ -1,88 +1,115 @@
+<!-- README.md -->
 # Project Title
 
-One Paragraph of project description goes here
+<h1 align="center">Welcome to RetroStation 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-Alpha 4-blue.svg?cacheSeconds=2592000" />
+</p>
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+> A frontend with multiples emulators for Windows !
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
+```sh
+* Install .Net framwork 3.5
+* Install vcredist
 ```
 
-And repeat
+## Install
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
+```sh
+* Download the project
+* Extract on your computer
+* Double-click "RetroStation.bat"
 ```
 
-### And coding style tests
+## Author
 
-Explain what these tests test and why
+* 👤 **Maxim Lopez** : [@MaximLopez](https://github.com/MaximLopez) (Lead)
+* 👤 **Thomas Florent** : [@Thomas-Florent](https://github.com/Thomas-Florent) (Co-Lead)
+* 👤 **Olivier Loriaux**
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+---
+
+## Licence
+
+<details>
+<summary>
+</summary>
+
+```markdown
+
+Copyright (c) 2015 Alec Lofquist
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
 ```
-Give an example
-```
 
-## Deployment
+</details>
 
-Add additional notes about how to deploy this on a live system
+---
 
-## Built With
+# Credits
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## Staff
+---
 
-## Contributing
+### RetroStation
+	Maxim Lopez [Lead]
+	Thomas Florent [Co-Lead]
+	Olivier Loriaux [Design]
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+### EmulationStation
+#### Programming
+	Alec "Aloshi" Lofquist - http://www.aloshi.com
 
-## Versioning
+#### UI Art & Design
+	Nils Bonenberger
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## Libraries
+---
+	PugiXML
+	http://pugixml.org/
 
-## Authors
+	SDL 2
+	http://www.libsdl.org/
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+	FreeImage
+	http://www.freeimage.sourceforge.net
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+	FreeType
+	http://www.freetype.org
 
-## License
+	cURL
+	http://curl.haxx.se/
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+	Boost
+	http://www.boost.org/
 
-## Acknowledgments
+	nanosvg
+	https://github.com/memononen/nanosvg
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+## Resources
+---
+	Open Sans font
+	http://www.google.com/fonts/specimen/Open+Sans
