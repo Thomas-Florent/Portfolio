@@ -11,7 +11,7 @@ export default class MainThree extends Component {
 					<p>Voici quelques réalisations personnelles :</p>
 					<div className="row gtr-150">
 						<div className="col-4 col-12-medium">
-							<span className="image fit"><img src="img/resto.PNG" alt=""></img></span>
+							<span className="image fit"><img src="img/resto.PNG" alt="resto"></img></span>
 							<h3>Projet restaurant en Bootstrap</h3>
 							<p>Il s'agit d'un projet de restaurant fictif réalisé en Bootstrap.</p>
 							<ul className="actions special">
@@ -19,7 +19,7 @@ export default class MainThree extends Component {
 							</ul>
 						</div>
 						<div className="col-4 col-12-medium">
-							<span className="image fit"><img src="./img/hart.png" alt=""></img></span>
+							<span className="image fit"><img src="./img/hart.png" alt="hart"></img></span>
 							<h3>Fondation du don cardiaque</h3>
 							<p>Redisign du site pour la fondation cardiaque à Bruxelles.</p>
 							<ul className="actions special">
@@ -27,7 +27,7 @@ export default class MainThree extends Component {
 							</ul>
 						</div>
 						<div className="col-4 col-12-medium">
-							<span className="image fit"><img src="./img/404.png" alt=""></img></span>
+							<span className="image fit"><img src="./img/404.png" alt="404"></img></span>
 							<h3>Page 404</h3>
 							<p>Une petite page 404 réalisé en HTML et CSS lors du début de Becode.</p>
 							<ul className="actions special">
