@@ -19,7 +19,7 @@ export default class MainThree extends Component {
 							</ul>
 						</div>
 						<div className="col-4 col-12-medium">
-							<img className="img" src="./img/hart.png" alt="hart"></img>
+							<img className="img" src="img/hart.png" alt="hart"></img>
 							<h3>Fondation du don cardiaque</h3>
 							<p>Redisign du site pour la fondation cardiaque à Bruxelles.</p>
 							<ul className="actions special">
@@ -27,7 +27,7 @@ export default class MainThree extends Component {
 							</ul>
 						</div>
 						<div className="col-4 col-12-medium">
-							<img className="img" src="./img/404.png" alt="404"></img>
+							<img className="img" src="img/404.png" alt="404"></img>
 							<h3>Page 404</h3>
 							<p>Une petite page 404 réalisé en HTML et CSS lors du début de Becode.</p>
 							<ul className="actions special">
