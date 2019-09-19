@@ -11,7 +11,7 @@ export default class MainThree extends Component {
 					<p>Voici quelques réalisations personnelles :</p>
 					<div className="row gtr-150">
 						<div className="col-4 col-12-medium">
-							<span className="image fit"><img src="img/resto.PNG" alt="resto"></img></span>
+							<img src="img/resto.PNG" alt="resto"></img>
 							<h3>Projet restaurant en Bootstrap</h3>
 							<p>Il s'agit d'un projet de restaurant fictif réalisé en Bootstrap.</p>
 							<ul className="actions special">
